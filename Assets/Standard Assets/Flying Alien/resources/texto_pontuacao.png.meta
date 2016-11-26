@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: a7825aed4e9fa9749809ee90b264c6e7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sketch134183451_0
+    21300002: Sketch134183451_1
+    21300004: Sketch134183451_2
+    21300006: Sketch134183451_3
+    21300008: Sketch134183451_4
+    21300010: Sketch134183451_5
+    21300012: Sketch134183451_6
+    21300014: Sketch134183451_7
+    21300016: Sketch134183451_8
+    21300018: Sketch134183451_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sketch134183451_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 577
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 206
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 330
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 454
+        width: 111
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 52
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 165
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 269
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 367
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sketch134183451_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 473
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

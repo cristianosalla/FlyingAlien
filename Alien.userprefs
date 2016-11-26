@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Flying Alien\script\StartGame.cs">
+    <Files>
+      <File FileName="..\Live Training Platform\Assets\Scripts\Test.cs" Line="20" Column="1" />
+      <File FileName="..\Live Training Platform\Assets\Scripts\_Coin_Behaviour.cs" Line="10" Column="57" />
+      <File FileName="..\Live Training Platform\Assets\Scripts\ScorePoints.cs" Line="14" Column="3" />
+      <File FileName="Assets\Standard Assets\Flying Alien\script\StartGame.cs" Line="22" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

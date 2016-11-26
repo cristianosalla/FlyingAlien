@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Standard Assets/Soccer Alien/Scena/game2.unity
+  isLoaded: 1
+  isActive: 1

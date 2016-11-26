@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Flying Alien\script\SpawnPlane.cs">
+    <Files>
+      <File FileName="..\New Unity Project 1\Assets\GAME\Scripts\TimeControl.cs" Line="1" Column="1" />
+      <File FileName="..\New Unity Project 1\Assets\GAME\Scripts\BolaControl.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\Cristiano\Documents\New Unity Project 1\Assets\Photon Unity Networking\Editor\PhotonNetwork\AccountService.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Flying Alien\script\BuildBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Flying Alien\script\SpawnPlane.cs" Line="32" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
